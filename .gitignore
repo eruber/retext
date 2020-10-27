@@ -6,6 +6,6 @@ build
 dist
 tests/__pycache__
 *.pyc
-icons/*
+#icons/*
 !icons/retext.png
 !icons/retext.svg
